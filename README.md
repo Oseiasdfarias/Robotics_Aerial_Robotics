@@ -2,7 +2,7 @@
 
 <object data="Coursera-certificate.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Coursera-certificate.pdf">
-        <p>Este navegador não suporta PDFs. Faça o download do PDF para visualizá-lo: <a href="Coursera-certificate.pdf">Download PDF</a>.</p>
+        <p>Certifidicado do Curso: <a href="Coursera-certificate.pdf">Certificado - Robotics Aerial Robotics</a>.</p>
     </embed>
 </object>
 
